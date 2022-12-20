@@ -7,19 +7,20 @@
 <body>
     <?php
         // incluindo o arquivo da classe
-        require_once 'objeto Computador.php';
+        require_once 'classe Computador.php';
 
-        // instanciando na variavel
+        // instanciando na variavel (aqui ele se torna um OBJETO)
         $pc1 = new Computador;
 
         // definindo valores aos atributos
-        $pc1->monitor = '26 polegadas';
-        $pc1->processador = 'AMD Ryzen';
-        $pc1->entradas_usb = 3;
-        $pc1->ligado = true;
+        // testes
+        $pc1->processador = "AMD Ryzen 7";
+        //$pc1->monitor = 20;   erro pois esta privado
+        $pc1->placa_video = "gtx 1650 4gb";
+
 
         // chamando metodo
-        $pc1->desligar();
+        $pc1->ligar();
 
     ?>
 </body>
