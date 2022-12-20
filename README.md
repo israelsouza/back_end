@@ -11,7 +11,7 @@
 
 ##### Tópicos estudando
 
- - POO {
-    Definição e partes do objeto;
-    Criação, instancia e atribuição de valores aos atributos;
- }
+ - POO
+   -- Definição de objeto e conceitos
+   -- Criação de classe e objeto
+   -- Modificação de visibilidade
