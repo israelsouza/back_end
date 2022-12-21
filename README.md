@@ -1,11 +1,11 @@
 ### Tópicos estudados
 
  #### logica de programação
-    ##### variável;
-    ##### constante;
-    ##### laços de repetição;
-    ##### condições;
-    ##### funções;
+    ##### variável
+    ##### constante
+    ##### laços de repetição
+    ##### condições
+    ##### funções
 
 
 ### Tópicos estudando
