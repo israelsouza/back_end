@@ -1,17 +1,17 @@
-##### Tópicos estudados
+### Tópicos estudados
 
- - logica de programação {
-    variável;
-    constante;
-    laços de repetição;
-    condições;
-    funções;
- }
+ #### logica de programação
+    ##### variável;
+    ##### constante;
+    ##### laços de repetição;
+    ##### condições;
+    ##### funções;
 
 
-##### Tópicos estudando
+### Tópicos estudando
 
- - POO
-   -- Definição de objeto e conceitos
-   -- Criação de classe e objeto
-   -- Modificação de visibilidade
+ #### POO
+   ##### Definição de objeto e conceitos
+   ##### Criação de classe e objeto
+   ##### Modificação de visibilidade
+   ##### Getters, Setters, Construct
